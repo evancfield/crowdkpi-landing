@@ -47,7 +47,7 @@ export default function Home() {
               How it works
             </a>
             <a
-              href="mailto:evancfield@gmail.com?subject=CrowdKPI — Request Access"
+              href="mailto:evan@crowdkpi.com?subject=CrowdKPI — Request Access"
               className="border-2 border-white text-white font-bold text-base px-8 py-4 rounded-full hover:bg-navy-light transition-colors"
             >
               Request Access
@@ -168,7 +168,7 @@ export default function Home() {
             Get in touch to set up a company account. Takes minutes to get your team trading.
           </p>
           <a
-            href="mailto:evancfield@gmail.com?subject=CrowdKPI — Request Access"
+            href="mailto:evan@crowdkpi.com?subject=CrowdKPI — Request Access"
             className="bg-white text-navy font-bold text-base px-10 py-4 rounded-full hover:bg-silver transition-colors inline-block"
           >
             Request Access
