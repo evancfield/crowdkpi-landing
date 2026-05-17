@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const APP_URL = "https://crowdkpi.streamlit.app";
+const APP_URL = "https://app.crowdkpi.com";
 
 export default function Home() {
   return (
