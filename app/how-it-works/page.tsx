@@ -5,9 +5,14 @@ export const metadata: Metadata = {
   title: "How It Works — CrowdKPI",
   description: "See how CrowdKPI works — from market creation to resolution. Prediction markets for internal KPIs.",
   alternates: { canonical: "https://crowdkpi.com/how-it-works" },
+  twitter: {
+    card: "summary",
+    title: "How It Works — CrowdKPI",
+    description: "See how CrowdKPI works — from market creation to resolution. Prediction markets for internal KPIs.",
+  },
 };
 
-const APP_URL = "https://crowdkpi.streamlit.app";
+const APP_URL = "https://app.crowdkpi.com";
 
 const STEPS = [
   {

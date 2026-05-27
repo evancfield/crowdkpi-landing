@@ -7,12 +7,20 @@ export const metadata: Metadata = {
   title: "CrowdKPI — Prediction Markets for Your Company",
   description:
     "Let your team bet on business outcomes. CrowdKPI surfaces what your people really think about KPIs — before the quarter ends.",
+  alternates: { canonical: "https://crowdkpi.com" },
   openGraph: {
-    title: "CrowdKPI",
-    description: "Prediction markets for internal KPIs.",
+    title: "CrowdKPI — Prediction Markets for Your Company",
+    description: "Let your team bet on business outcomes. CrowdKPI surfaces what your people really think about KPIs — before the quarter ends.",
     url: "https://crowdkpi.com",
     siteName: "CrowdKPI",
     images: [{ url: "/crowdkpi-icon.svg.png" }],
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "CrowdKPI — Prediction Markets for Your Company",
+    description: "Let your team bet on business outcomes. CrowdKPI surfaces what your people really think about KPIs — before the quarter ends.",
+    images: ["/crowdkpi-icon.svg.png"],
   },
 };
 
